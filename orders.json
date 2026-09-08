@@ -1,0 +1,6 @@
+[
+  {"order_id": "ORD1001", "customer_name": "Arun", "product_id": "P001", "product_name": "Wireless Bluetooth Earbuds", "status": "Shipped", "expected_delivery": "2026-09-05"},
+  {"order_id": "ORD1002", "customer_name": "Divya", "product_id": "P002", "product_name": "Cotton Casual T-Shirt", "status": "Delivered", "expected_delivery": "2026-08-30"},
+  {"order_id": "ORD1003", "customer_name": "Karthik", "product_id": "P004", "product_name": "Laptop Backpack", "status": "Processing", "expected_delivery": "2026-09-08"},
+  {"order_id": "ORD1004", "customer_name": "Priya", "product_id": "P005", "product_name": "Smart Fitness Band", "status": "Out for Delivery", "expected_delivery": "2026-09-04"}
+]

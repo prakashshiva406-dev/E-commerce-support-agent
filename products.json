@@ -1,0 +1,7 @@
+[
+  {"id": "P001", "name": "Wireless Bluetooth Earbuds", "category": "Electronics", "price": 1499, "stock": 45, "description": "Noise-cancelling wireless earbuds with 24hr battery"},
+  {"id": "P002", "name": "Cotton Casual T-Shirt", "category": "Clothing", "price": 499, "stock": 120, "description": "100% cotton, available in 5 colors"},
+  {"id": "P003", "name": "Stainless Steel Water Bottle", "category": "Home", "price": 349, "stock": 80, "description": "1L insulated bottle, keeps water cold 12hrs"},
+  {"id": "P004", "name": "Laptop Backpack", "category": "Accessories", "price": 899, "stock": 60, "description": "Water-resistant, fits up to 15.6 inch laptop"},
+  {"id": "P005", "name": "Smart Fitness Band", "category": "Electronics", "price": 1999, "stock": 30, "description": "Heart rate monitor, step tracker, 7-day battery"}
+]
